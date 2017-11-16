@@ -1,8 +1,5 @@
 install jnekins
-
 install phyton
-
-
 install git
 install maven
 install docker
